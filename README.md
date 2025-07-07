@@ -1,6 +1,6 @@
 # OpenBao Docker Compose Setup
 
-This is a Docker Compose setup for OpenBao with PostgreSQL as the storage backend. It's designed to be fairly production-ready while still being simple to deploy.
+It's designed to be fairly production-ready while still being simple to deploy.
 
 ## Notes
 
